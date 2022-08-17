@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+313246,"Concierge Services",2017-08-28,109116,21823.2,130939,USD
+750688,"Various paper supplies",2017-08-19,40805,8161,48966,EUR
+252123,"IT Support",2017-08-08,120989,24197.8,145187,CAD
+135164,"Waste management services",2017-08-22,65448,13089.6,78537.6,RON
